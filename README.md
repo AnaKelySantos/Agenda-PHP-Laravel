@@ -1,2 +1,2 @@
-# Fazendo Curso em HTML
- Aprendendo html
+# Fazendo de Laravel
+ Aprendendo Laravel
