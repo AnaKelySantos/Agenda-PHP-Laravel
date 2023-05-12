@@ -1,0 +1,95 @@
+/* estilizando a classe direita*/
+body{
+    background-color: rgba(255, 251, 239, 0.993);
+}
+
+#form{
+    background-color:#e7e2d5;
+    width: 300px;
+    height: 420px;
+    padding-top: 1px;
+    border-radius: 10px;
+    float: left;
+    
+   
+}
+
+
+
+label{
+    width: 90%;
+    display: block;
+    height: 15px;
+    margin: auto;
+    margin-bottom: 5px;
+    margin-top: 20px;
+    border-radius: 15px;
+    
+}
+
+input{
+    width: 90%;
+    display: block;
+    height: 20px;
+    margin: auto;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border: none;
+    
+}
+#enviar{
+    width: 30%;
+    margin-top: 35px;
+    height: 30px;
+    border-radius: 15px;
+    margin-top: 125px;
+    
+
+}
+
+#radio{
+    
+    margin-bottom: 10px;
+    width: 90%;
+    display: block;
+    height: 1px;
+    margin: auto;
+    margin-bottom: 5px;
+    margin-top: 2px;
+    border-radius: 15px;
+
+ 
+   
+}
+button{
+    width: 30%;
+    height: 30px;
+    border-radius: 15px;
+    margin-top: -70x;
+    border: none;
+    margin-left: 40%;
+
+}
+
+
+
+
+#dois{
+    background-color: #b6b6b6;
+    float: right;
+    width: 70%;
+    text-decoration: none;
+    margin-top: 1%;
+  
+    
+   
+   
+}
+#um{
+    background-color: #e7e2d5;
+     width: 70%; 
+    float: right;
+    text-align: center;
+    
+}
+
